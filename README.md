@@ -12,21 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there !<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I am Divyaansh Jain </h1>
 
 ### About Me 🚀
 
-🎓 I am a 4th-year student pursuing Bachelor's in Computer Science and Engineering with specialization in DevOps at UPES, Dehradun. 
-👨‍💻 I am an Open-Source enthusiast and passionate about DevOps, Cloud Computing and Data Science.
+🎓 I am a 4th-year student pursuing Bachelor's in Computer Science and Engineering with specialization in DevOps at UPES, Dehradun.  </br>
+👨‍💻 I am an Open-Source enthusiast and passionate about DevOps, Cloud Computing and Data Science.  </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyaansh313&label=Profile%20views&color=0e75b6&style=flat" alt="Divyaansh313" /> </p>
 <p>
 <a align= "center" href="https://github.com/Divyaansh313">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyaansh313&theme=radical">
-<img align="right" height="350" width="400" src="https://dribbble.com/shots/13971135-Work-from-home-bear?utm_source=Clipboard_Shot&utm_campaign=anveshdunna&utm_content=Work%20from%20home%20bear&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=anveshdunna&utm_content=Work%20from%20home%20bear&utm_medium=Social_Share" /> </a>
+<img align="right" height="350" width="400" src="https://dribbble.com/shots/13962679-Working?utm_source=Clipboard_Shot&utm_campaign=ottozaiser&utm_content=Working&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=ottozaiser&utm_content=Working&utm_medium=Social_Share" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Divyaansh313&count_private=true&theme=radical&show_icons=true" />
 
