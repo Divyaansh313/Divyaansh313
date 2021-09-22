@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p>
 <a align= "center" href="https://github.com/Divyaansh313">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyaansh313&theme=radical">
-<img align="right" height="350" width="400" src="https://dribbble.com/shots/13962679-Working?utm_source=Clipboard_Shot&utm_campaign=ottozaiser&utm_content=Working&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=ottozaiser&utm_content=Working&utm_medium=Social_Share" /> </a>
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Divyaansh313&count_private=true&theme=radical&show_icons=true" />
 
