@@ -16,16 +16,17 @@ Here are some ideas to get you started:
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I am Divyaansh Jain </h1>
-<h5 align="center">
+
 ### About Me 🚀
+
 🎓 I am a 4th-year student pursuing Bachelor's in Computer Science and Engineering with specialization in DevOps at UPES, Dehradun. 
 👨‍💻 I am an Open-Source enthusiast and passionate about DevOps, Cloud Computing and Data Science.
-</h5>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyaansh313&label=Profile%20views&color=0e75b6&style=flat" alt="Divyaansh313" /> </p>
 <p>
 <a align= "center" href="https://github.com/Divyaansh313">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyaansh313&theme=radical">
-<img align="right" height="350" width="400" src="https://dribbble.com/shots/13971135-Work-from-home-bear" /> </a>
+<img align="right" height="350" width="400" src="https://dribbble.com/shots/13971135-Work-from-home-bear?utm_source=Clipboard_Shot&utm_campaign=anveshdunna&utm_content=Work%20from%20home%20bear&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=anveshdunna&utm_content=Work%20from%20home%20bear&utm_medium=Social_Share" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Divyaansh313&count_private=true&theme=radical&show_icons=true" />
 
@@ -41,10 +42,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/DivyaanshJain" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="DivyaanshJain" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/divyaanshjain/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="divyaansh jain" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/dj__divyaansh" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="dj__divyaansh" height="50" width="50" /></a>
-<a href="https://divyaanshjain3.medium.com/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" alt="divyaanshjain3" height="50" width="50" /></a>
+<a href="https://twitter.com/DivyaanshJain" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="DivyaanshJain" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/divyaanshjain/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="divyaansh jain" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/dj__divyaansh" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="dj__divyaansh" height="50" width="50" /></a>
+<a href="https://divyaanshjain3.medium.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="divyaanshjain3" height="50" width="50" /></a>
 </p>
 
 <hr>
