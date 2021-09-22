@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/DivyaanshJain" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="DivyaanshJain" height="50" width="60" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/divyaanshjain/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="divyaansh jain" height="60" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/dj__divyaansh" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="dj__divyaansh" height="50" width="60" /></a>
-<a href="https://divyaanshjain3.medium.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="divyaanshjain3" height="50" width="60" /></a>
+<a href="https://twitter.com/DivyaanshJain" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="DivyaanshJain" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/divyaanshjain/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="divyaansh jain" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/dj__divyaansh" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="dj__divyaansh" height="50" width="50" /></a>
+<a href="https://divyaanshjain3.medium.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="divyaanshjain3" height="50" width="50" /></a>
 </p>
 
 <hr>
