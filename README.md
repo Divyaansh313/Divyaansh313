@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 
-🎓 I am a 4th-year student pursuing Bachelor's in Computer Science and Engineering with specialization in DevOps at UPES, Dehradun.  </br>
+🎓 I am a Dedicated SDE-1 at Cradlepoint India Pvt. Ltd. in the infrastructure realm, seeking impactful opportunities to leverage expertise in optimizing and automating processes to enhance operational efficiency and contribute to the success of forward-thinking organizations in the DevOps domain.  </br>
 👨‍💻 I am an Open-Source enthusiast and passionate about DevOps, Cloud Computing and Data Science.  </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyaansh313&label=Profile%20views&color=0e75b6&style=flat" alt="Divyaansh313" /> </p>
